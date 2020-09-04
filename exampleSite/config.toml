@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Immutable Inc"
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
