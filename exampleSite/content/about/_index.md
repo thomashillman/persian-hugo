@@ -1,6 +1,6 @@
 ---
-title: Immutable Inc is an information security consultancy focusing on cloud security,
-  secure app design, security awareness, OSINT, and mentoring
+title: Immutable Inc is a security consultancy focusing on cloud, secure app development,
+  security awareness, OSINT, and mentoring
 image: images/author.jpg
 description: Immutable Inc - About Page
 
