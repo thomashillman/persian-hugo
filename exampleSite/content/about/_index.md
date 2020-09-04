@@ -2,7 +2,7 @@
 title: Immutable Inc is an information security consultancy focusing on cloud security,
   secure app design, security awareness, OSINT, and mentoring
 image: images/author.jpg
-description: This is meta description.
+description: Immutable Inc - About Page
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum 
