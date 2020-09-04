@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: this is meta description
+description: Immtable Inc - Privacy Policy
 
 ---
 # Privacy Policy for Immutable Inc
