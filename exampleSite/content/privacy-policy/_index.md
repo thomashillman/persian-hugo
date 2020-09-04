@@ -59,7 +59,7 @@ Immutable Inc does not knowingly collect any Personal Identifiable Information f
 
 ## Online Privacy Policy Only
 
-Our Privacy Policy created at GDPRPrivacyPolicy.net) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Immutable Inc. This policy is not applicable to any information collected offline or via channels other than this website.
+Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Immutable Inc. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ## Consent
 
