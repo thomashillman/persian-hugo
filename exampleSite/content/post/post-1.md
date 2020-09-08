@@ -1,7 +1,7 @@
 ---
 title: Building an interface between people and nature
 date: 2020-05-12T12:14:34.000+06:00
-image: "/images/post-1.gif"
+image: "/images/post/post-3.jpg"
 author: John Doe
 description: This is meta description.
 categories:
