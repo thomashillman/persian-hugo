@@ -1,14 +1,18 @@
 ---
-title: "Building an interface between people and nature"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-4.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["Green Tree"]
-tags: ["green", "tree"]
-draft: false
----
+title: How To Secure A Fully Remote Workforce
+date: 2020-09-14T08:15:34+00:00
+image: images/post/post-4.jpg
+author: Tom Hillman
+description: This is meta description.
+categories:
+- Strategy
+tags:
+- RDP
+- VPN
+- Remote working
+- WFH
 
+---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
