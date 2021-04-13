@@ -1,7 +1,7 @@
 ---
-title: Tom Hillman
+title: John Doe
 image: ''
-email: tom@immutableinc.io
+email: test
 social:
 - icon: ti-twitter-alt
   link: "#"
