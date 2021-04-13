@@ -8,6 +8,7 @@ description: What is Cyber Security? It's a frequently asked question. One with 
 categories:
 - Cyber Security
 tags:
+- '101'
 - Cyber Security
 
 ---
