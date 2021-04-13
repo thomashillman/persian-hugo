@@ -31,6 +31,10 @@ sections:
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
+- type: document
+  path: exampleSite/content/categories/_index.md
+  label: Categories
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
