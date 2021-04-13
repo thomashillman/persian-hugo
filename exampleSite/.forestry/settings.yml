@@ -34,7 +34,6 @@ sections:
 - type: document
   path: exampleSite/content/categories/_index.md
   label: Categories
-  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory

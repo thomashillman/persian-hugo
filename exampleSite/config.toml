@@ -8,7 +8,7 @@ title = "Immutable Inc"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "categories/nature/"
+URL = "categories"
 name = "Category"
 weight = 3
 [[menu.main]]
