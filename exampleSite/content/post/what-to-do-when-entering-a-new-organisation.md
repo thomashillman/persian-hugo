@@ -3,7 +3,6 @@ author = "John Doe"
 categories = ["Cyber Security"]
 date = 2021-04-10T23:00:00Z
 description = ""
-draft = true
 image = "/images/post-1.gif"
 tags = ["Cyber Security"]
 title = "What To Do When Entering A New Organisation"
