@@ -9,11 +9,6 @@ categories:
 - Cyber Security
 tags:
 - Cyber Security
-menu:
-  main:
-    name: Category
-    URL: categories/nature/
-    weight: 3
 
 ---
 What is Cyber Security? It's a frequently asked question. One with a million answers. But it really all boils down to one thing. Risk. It's about understanding what your business will accept, what you can mitigate, what you might want to avoid, and what risk you can transfer.
